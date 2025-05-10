@@ -1,7 +1,7 @@
 # App-Rating-Prediction-using-python
 The model used Linear Regression to predict ratings based on various features, and its performance was evaluated using the R² score.
 
-**Code**:[App Rating Prediction.ipynb](https://github.com/zhaoycy/Data-Analysis/blob/main/App_Rating_Prediction.ipynb)
+**Code**:[App Rating Prediction.ipynb](https://github.com/zhaoycy/App-Rating-Prediction-using-python/blob/main/App_Rating_Prediction.ipynb)
 
 **Goal**: To predict the ratings of mobile apps based on various features such as app size, reviews, installs, price, category, and content rating.
 
